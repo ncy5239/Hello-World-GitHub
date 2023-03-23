@@ -1,5 +1,7 @@
 # Hello-World-GitHub
+This is a hello world project for usage of GitHub
+I added this line in the "features" branch
 
-Hello I'm NING Chenyu
+Hello, this is ZhangSan at CUHK CENG
 
-My student number is 1155157065
+My student Number is 1155150000
